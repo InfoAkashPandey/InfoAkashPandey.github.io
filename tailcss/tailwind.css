@@ -1,0 +1,14 @@
+@media (max-width:992px){
+    .Ayodhya-event{
+
+    }
+
+}
+@media (max-width:768px){
+    .Ayodhya-event{
+        flex-wrap: wrap;
+    }
+    .width-100{
+        width: 100%;
+    }
+}
