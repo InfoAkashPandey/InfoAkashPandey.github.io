@@ -11,4 +11,15 @@
     .width-100{
         width: 100%;
     }
+    .ayodhya-event-p{
+        padding: 0px !important;
+    }
+    .nav-ayodhya{
+        padding: 5px !important;
+        margin-left: 5px;
+        font-size: 18px !important;
+    }
+    .AYODHYA{
+        padding-bottom: 7px;
+    }
 }
